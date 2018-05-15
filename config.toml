@@ -1,4 +1,4 @@
-baseurl = "https://analytical-cm.org/"
+baseurl = "http://analytical-cm.org/"
 title = "Analytical Case Management"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"

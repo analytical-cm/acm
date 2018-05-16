@@ -69,6 +69,12 @@
   </url>
   
   <url>
+    <loc>/categories/assessment/</loc>
+    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/baseline/</loc>
     <lastmod>2018-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>

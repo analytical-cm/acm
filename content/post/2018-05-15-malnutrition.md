@@ -4,7 +4,7 @@ title = "Malnutrition"
 draft = false
 image = "img/caloric.png"
 showonlyimage = false
-categories = [ "Baseline"]
+categories = [ "Assessment"]
 weight = 2
 description = "Individual meta description for this post"
 +++

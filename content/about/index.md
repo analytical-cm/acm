@@ -5,7 +5,11 @@ title = "About ACM"
 
 In chess, every move has a purpose. Social service case management obviously cannot be be undertaken with this much unceasing calculation, nor should we want to practicein this way, but the arc of a case should generally align with a predetermined strategy. The analytical case management (ACM) curriculum is designed to help social workers use data in the context of law and policy to develop such a strategy. 
 
+<<<<<<< HEAD
 <img src="/img/chess.jpg" alt="Chess" style="width: 200px;"/>
+=======
+![Chess][1]
+>>>>>>> 0775c4552480beffe88d6c2c62559863be8080a4
 
 The ACM curriculum is the result of nearly two decades of social work practice and research on the part of the curriculum's author, Joe Mienko. Although the curriculum has been started with an explicit focus on the child welfare system, the goal is to help bring principles of measurement, analysis, and logical reasoning to the social service field as a whole. 
 

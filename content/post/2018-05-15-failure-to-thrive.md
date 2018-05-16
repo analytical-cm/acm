@@ -1,5 +1,7 @@
 ---
 title: Failure to Thrive
+showonlyimage = true
+draft = false
 author: Joe Mienko
 date: '2018-05-15'
 image = "/img/eating.jpg"

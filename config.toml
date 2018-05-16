@@ -53,10 +53,10 @@ paginate = 5 #frontpage pagination
   url = "contact/"
   weight = 3
   
-  [[menu.main]]
-  name = "Register"
-  url = "registration/"
-  weight = 4
+  #[[menu.main]]
+  #name = "Register"
+  #url = "registration/"
+  #weight = 4
 
   [params.social]
   #facebook      = "full profile url in facebook"

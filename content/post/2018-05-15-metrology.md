@@ -4,7 +4,7 @@ title = "Science"
 draft = false
 image = "img/meter.jpg"
 showonlyimage = false
-categories = [ "Metrology"]
+categories = [ "Preliminaries"]
 weight = 2
 description = "Individual meta description for this post"
 +++

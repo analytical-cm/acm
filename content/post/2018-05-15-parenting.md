@@ -4,7 +4,7 @@ title = "Parenting Behaviors"
 draft = false
 image = "img/parenting.jpg"
 showonlyimage = false
-categories = [ "Lectures"]
+categories = [ "Baseline"]
 weight = 2
 description = "Individual meta description for this post"
 +++

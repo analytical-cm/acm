@@ -4,7 +4,7 @@ title = "Intelligence"
 draft = false
 image = "img/intelligence.jpg"
 showonlyimage = false
-categories = [ "Lectures"]
+categories = [ "Baseline"]
 weight = 2
 description = "Individual meta description for this post"
 +++

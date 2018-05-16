@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baseline on Analytical Case Management</title>
+    <link>/categories/baseline/</link>
+    <description>Recent content in Baseline on Analytical Case Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/baseline/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Caloric Intake</title>
+      <link>/post/2018-05-15-caloric-intake/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-05-15-caloric-intake/</guid>
+      <description>Some more information related to my caloric intake lecture</description>
+    </item>
+    
+    <item>
+      <title>Growth</title>
+      <link>/post/2018-05-15-failure-to-thrive/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-05-15-failure-to-thrive/</guid>
+      <description>&lt;p&gt;This is a test post. I am writing it to see how it goes.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Intelligence</title>
+      <link>/post/2018-05-15-intelligence/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-05-15-intelligence/</guid>
+      <description>Some more information related to my IQ lecture</description>
+    </item>
+    
+    <item>
+      <title>Risk</title>
+      <link>/post/2018-05-15-risk-assessment/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-05-15-risk-assessment/</guid>
+      <description>Risk assessment work</description>
+    </item>
+    
+    <item>
+      <title>Substance Use</title>
+      <link>/post/2018-05-15-substance-use/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-05-15-substance-use/</guid>
+      <description>Some more information related to my SA lecture</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 +++
 date = "2018-05-15"
-title = "Parenting"
+title = "Parenting Behaviors"
 draft = false
 image = "img/parenting.jpg"
 showonlyimage = false

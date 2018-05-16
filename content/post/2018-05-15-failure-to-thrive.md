@@ -1,10 +1,10 @@
 +++
 date = "2018-05-15"
-title = "Failure to Thrive"
+title = "Growth"
 draft = false
 image = "img/eating.jpg"
 showonlyimage = false
-categories = [ "Lectures"]
+categories = [ "Baseline"]
 weight = 2
 description = "Individual meta description for this post"
 +++

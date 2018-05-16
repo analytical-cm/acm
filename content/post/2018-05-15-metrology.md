@@ -2,7 +2,7 @@
 date = "2018-05-15"
 title = "Metrology"
 draft = false
-image = "img/meter.jpg"
+image = "img/meter.png"
 showonlyimage = false
 categories = [ "Preliminaries"]
 weight = 2

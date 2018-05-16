@@ -2,7 +2,7 @@
 date = "2018-05-15"
 title = "Intelligence"
 draft = false
-image = "img/intelligence.jpg"
+image = "img/intelligence.png"
 showonlyimage = false
 categories = [ "Baseline"]
 weight = 2

@@ -2,7 +2,7 @@
 date = "2018-05-15"
 title = "Malnutrition"
 draft = false
-image = "img/caloric.jpg"
+image = "img/caloric.png"
 showonlyimage = false
 categories = [ "Baseline"]
 weight = 2

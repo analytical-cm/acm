@@ -2,7 +2,7 @@
 date = "2018-05-15"
 title = "Risk"
 draft = false
-image = "img/risk.jpg"
+image = "img/risk.png"
 showonlyimage = false
 categories = [ "Baseline"]
 weight = 2

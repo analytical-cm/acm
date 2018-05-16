@@ -2,7 +2,7 @@
 date = "2018-05-15"
 title = "Parenting Behaviors"
 draft = false
-image = "img/parenting.jpg"
+image = "img/parenting.png"
 showonlyimage = false
 categories = [ "Baseline"]
 weight = 2

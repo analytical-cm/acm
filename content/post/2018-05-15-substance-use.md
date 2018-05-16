@@ -2,7 +2,7 @@
 date = "2018-05-15"
 title = "Substance Use"
 draft = false
-image = "img/poppy.jpg"
+image = "img/poppy.png"
 showonlyimage = false
 categories = [ "Baseline"]
 weight = 2

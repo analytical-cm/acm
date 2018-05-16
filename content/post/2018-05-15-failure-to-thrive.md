@@ -7,4 +7,6 @@ categories: [Lectures]
 tags: []
 ---
 
+<img src="/img/eating.jpg" alt="Chess" style="width: 600px;"/>
+
 This is a test post. I am writing it to see how it goes. 

@@ -1,9 +1,9 @@
 ---
 title: Failure to Thrive
-author: ~
+author: Joe Mienko
 date: '2018-05-15'
 slug: failure-to-thrive
-categories: []
+categories: [Lectures]
 tags: []
 ---
 

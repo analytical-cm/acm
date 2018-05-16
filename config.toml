@@ -10,7 +10,7 @@ preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
 [params]
-  slogan = "Social service case management based on measurement, analysis, and logical reasoning"
+  slogan = "Social service case management based on measurement and analysis"
   description = "A Hugo page designed to communicate to the public about the analytical case management pilot courses being offered at the University of Washington School of Social Work." # meta description
   author = "Joe Mienko"
   authorLink = "https://github.com/mienkoja"
@@ -52,14 +52,19 @@ paginate = 5 #frontpage pagination
   name = "Get in touch"
   url = "contact/"
   weight = 3
+  
+  [[menu.main]]
+  name = "Register"
+  url = "registration/"
+  weight = 4
 
   [params.social]
-  facebook      = "full profile url in facebook"
-  googleplus    = "full profile url in googleplus"
+  #facebook      = "full profile url in facebook"
+  #googleplus    = "full profile url in googleplus"
   email         = "mienko@uw.edu"
   twitter       = "full profile url in twitter"
   linkedin      = "full profile url in linkedin"
   stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
+  #instagram     = "full profile url in instagram"
   github        = "full profile url in github"
-  pinterest     = "full profile url in pinterest"
+  #pinterest     = "full profile url in pinterest"

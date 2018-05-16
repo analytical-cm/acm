@@ -1,16 +1,16 @@
 +++
-title: "Failure to Thrive"
+title "Failure to Thrive"
 showonlyimage = true
 draft = false
-author: Joe Mienko
-date: '2018-05-15'
+author Joe Mienko
+date "2018-05-15"
 image = "/img/eating.jpg"
-slug: failure-to-thrive
+slug failure-to-thrive
 weight = 1
-categories: ["Lectures"]
-tags: []
+categories ["Lectures"]
 description = "Individual meta description for this post"
 +++
+
 
 This is a test post. I am writing it to see how it goes. 
 <!--more-->

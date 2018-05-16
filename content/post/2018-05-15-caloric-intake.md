@@ -1,6 +1,6 @@
 +++
 date = "2018-05-15"
-title = "Caloric Intake"
+title = "Malnutrition"
 draft = false
 image = "img/caloric.jpg"
 showonlyimage = false

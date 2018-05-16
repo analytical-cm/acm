@@ -4,7 +4,7 @@ title = "Risk"
 draft = false
 image = "img/risk.png"
 showonlyimage = false
-categories = [ "Baseline"]
+categories = [ "Assessment"]
 weight = 2
 description = "Individual meta description for this post"
 +++

@@ -1,4 +1,4 @@
-baseurl = "http://acm.socialworkstats.org/"
+baseurl = "https://acm.socialworkstats.org/"
 title = "Analytical Case Management"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
